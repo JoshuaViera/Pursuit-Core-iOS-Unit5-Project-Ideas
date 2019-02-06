@@ -17,6 +17,7 @@ App ideas for unit 5 solo project.
 | Strava clone | Fitness, Sports |
 | ARKit app | ARKit |
 | IoT app | Arduino |
+| Teacher Resource App | Productivity |
 
 
 ## Demo 
