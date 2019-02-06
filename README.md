@@ -19,6 +19,6 @@ App ideas for unit 5 solo project.
 | IoT app | Arduino |
 
 
-## Dmoo 
+## Demo 
 
 You will also be demoing your app after completion. 
