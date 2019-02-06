@@ -18,6 +18,7 @@ App ideas for unit 5 solo project.
 | ARKit app | ARKit |
 | IoT app | Arduino |
 | Teacher Resource App | Productivity |
+| Find my Friends clone | Social |
 
 
 ## Demo 
