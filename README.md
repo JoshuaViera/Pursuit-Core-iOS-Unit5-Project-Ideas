@@ -42,3 +42,10 @@ You will also be demoing your app after completion.
 | Does the app alert the user in case of network failure? | 4 |
 | Does the app store persistent state using Core Data or a service with local persistence capabilities (e.g. Firebase or Realm)? | 4 |
 | Does the app function as described in the README, without crashes or other runtime errors? | 4 |
+
+## Resources 
+   
+| Resource | Summary |
+|:---------:|:--------:|
+| [Apple Developer Documentation](https://developer.apple.com/documentation) | Apple API Documentation | 
+| [Human Interface Guideline](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/) | Apple Human Interface Guidelines |
