@@ -49,3 +49,6 @@ You will also be demoing your app after completion.
 |:---------:|:--------:|
 | [Apple Developer Documentation](https://developer.apple.com/documentation) | Apple API Documentation | 
 | [Human Interface Guideline](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/) | Apple Human Interface Guidelines |
+| [Sketch](https://www.sketchapp.com/) | Design and Prototyping |
+| [Ninjamock](https://ninjamock.com/) | Wireframe and Mockup Tool |
+| [Uplabs](https://www.uplabs.com/ios) | Daily iOS resources for designers |
