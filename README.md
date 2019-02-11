@@ -35,7 +35,6 @@ You will also be demoing your app after completion.
 | Does the app have a gif | 4 |
 | Does the README detail all steps needed for the reviewer to build, run, and access the app? | 4 |
 | Does the app contain a user interface with multiple pages of content? | 4 |
-| Does the app use more than one type of native control in its user interface? | 4 |
 | Does the app interact with a networked API that provides the app with data? unless using SpriteKit, ARKit or similar | 4 |
 | Is the networking code in the app encapsulated into networking classes? | 4 |
 | Does the user interface clearly indicate network activity, particularly in situations where the user is waiting for data? |  4 |
